@@ -1,0 +1,1 @@
+# Managing-Renegotiability-in-Blockchain-based-Enforceable-Business-Processes
